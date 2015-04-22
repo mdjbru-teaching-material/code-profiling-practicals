@@ -1,0 +1,23 @@
+Those files were downloaded from the Ensembl genomes website.
+
+Each file corresponds to one Escherichia coli strain for which a complete or
+draft genome sequence is available. The name of the strain were contained in
+the original file names (see correspondence table below).
+
+Each file contains the peptide sequences from all translations resulting from
+Ensembl known or novel gene predictions for that given E. coli strain.
+
+Files are in the FASTA format.
+
+The original address is
+ftp://ftp.ensemblgenomes.org/pub/current/bacteria/fasta/
+
+
+Correspondence table between original file names and current names:
+
+ Escherichia_coli_o45_h2_str_01_3147.GCA_000617125.1.26.pep.all.fa       Ecoli_strain_01.fa
+ Escherichia_coli_o45_h2_str_2009c_3686.GCA_000619265.1.26.pep.all.fa    Ecoli_strain_02.fa 
+ Escherichia_coli_o45_h2_str_2009c_4780.GCA_000619105.1.26.pep.all.fa    Ecoli_strain_03.fa
+ Escherichia_coli_o45_h2_str_2010c_3876.GCA_000615535.1.26.pep.all.fa    Ecoli_strain_04.fa
+ Escherichia_coli_o45_h2_str_2010c_4211.GCA_000703305.1.26.pep.all.fa    Ecoli_strain_05.fa
+
